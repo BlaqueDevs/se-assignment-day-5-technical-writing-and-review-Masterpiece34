@@ -81,7 +81,7 @@
 
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
 
-      Using plain language in my writing is important because it makes my content clear and easy to understand for everyone. It helps me reach a wider audience, avoids confusion, and           keeps readers engaged. If I use too much technical jargon, I risk losing or frustrating people who aren’t familiar with those terms. Plain language ensures that my message gets           across effectively to all readers, regardless of their background or expertise.
+      Using plain language in my writing is important because it makes my content clear and easy to understand for everyone. It helps me reach a wider audience, avoids confusion, and keeps readers engaged. If I use too much technical jargon, I risk losing or frustrating people who aren’t familiar with those terms. Plain language ensures that my message gets across effectively to all readers, regardless of their background or expertise.
 
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
       Here are a few examples of how simplifying terms can improve comprehension:
@@ -93,12 +93,11 @@
 
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
      
-      When explaining complex concepts, it's often beneficial to employ a combination of examples and visuals. By relating abstract ideas to real-world experiences and utilizing               diagrams or charts, I can make complex information more relatable, understandable, and memorable.
+      When explaining complex concepts, it's often beneficial to employ a combination of examples and visuals. By relating abstract ideas to real-world experiences and utilizing diagrams or charts, I can make complex information more relatable, understandable, and memorable.
 
-      For example, to explain the concept of "algorithm," I might use the analogy of a recipe. This allows my audience to visualize the step-by-step process involved in achieving a
-      specific outcome. Additionally, a flowchart could visually represent the sequence of steps in an algorithm, making it easier to grasp the concept.
+      For example, to explain the concept of "algorithm," I might use the analogy of a recipe. This allows my audience to visualize the step-by-step process involved in achieving a specific outcome. Additionally, a flowchart could visually represent the sequence of steps in an algorithm, making it easier to grasp the concept.
 
-      By incorporating examples and visuals, I not only clarify complex ideas but also make my content more engaging and interesting. This can help my audience better understand and           retain the information presented.
+      By incorporating examples and visuals, I not only clarify complex ideas but also make my content more engaging and interesting. This can help my audience better understand and retain the information presented.
 
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
      
